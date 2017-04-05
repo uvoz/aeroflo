@@ -8,7 +8,8 @@ The rubber parts are printed with the Primalloy fillament from Verbatim. It's a 
 
 ## Main water-pipe to sprayer hoses rubber interface connector
 ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
-![open scad script](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
+
+![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
 
 
 ![picture](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.jpg)
