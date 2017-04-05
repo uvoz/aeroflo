@@ -10,15 +10,15 @@ Other flexible fillaments might work as well.
 ## Lid for unused plant-holes (netcup lid)
 When growing large tomatoes, one would not use all holes. Here a decent lid. Insert the lid with the flat side up to avoid dirt and rainwater build-up.
 
-![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.stl)
-![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.scad)
+### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.stl)
+### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.scad)
 
 
 ## Main water-pipe to sprayer hoses rubber interface connector
 After running the Auroflo for 3+ years! the original rubber sprayer tube connectors became brittle this spring. Her an improved, slight conic shaped version. It's snugger then the original part.
 
-![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
-![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
+### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
+### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
 
 
 ![picture](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.jpg)
