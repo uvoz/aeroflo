@@ -4,7 +4,7 @@ usefull printable (rubber) parts for the Aeroflo from GHE General Hydroponics Eu
 
 
 ## Tested with Primaloy
-Our rubber parts are printed with the Primalloy fillament from Verbatim. It's a similar material like soft skateboard-wheels and has excellent cohesion. Haven't seen it de-laminating. Print solid .1mm layers at 20mm/second on 235C with the bed heated at 50C.
+We printed the rubber parts with the Primalloy fillament from Verbatim. It's a similar material like soft skateboard-wheels and has excellent cohesion. Haven't seen it de-laminating. Print solid .1mm layers at 20mm/second on 235C with the bed heated at 50C.
 Other flexible fillaments might work as well.
 
 ## Lid for unused plant-holes (netcup lid)
@@ -15,7 +15,7 @@ When growing large tomatoes, one would not use all holes. Here a decent lid. Ins
 
 
 ## Main water-pipe to sprayer hoses rubber interface connector
-After running the Auroflo for 3+ years! the original rubber sprayer tube connectors became brittle this spring. Her an improved, slight conic shaped version. It's snugger then the original part.
+After running the Auroflo for 3+ years! the original rubber sprayer tube connectors became brittle this spring. This an improved, slight conic shaped version. It's snugger then the original part.
 
 ### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
 ### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
