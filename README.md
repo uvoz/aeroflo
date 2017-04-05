@@ -14,3 +14,11 @@ The rubber parts are printed with the Primalloy fillament from Verbatim. It's a 
 
 ![picture](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.jpg)
 
+## Lid for unused plant-holes (netcup lid)
+When growing large tomatoes, one would not use all holes. Here a decent lid. Insert the lid with the flat side up to avoid dirt and rainwater build-up.
+
+![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.stl)
+
+![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.scad)
+
+
