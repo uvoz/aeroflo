@@ -10,4 +10,5 @@ The rubber parts are printed with the Primalloy fillament from Verbatim. It's a 
 ![alt tag](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.jpg)
 ### aeroflo-sprayertopipe-connectorrubberII.scad (source)
 ### aeroflo-sprayertopipe-connectorrubberII.stl (3d object for slicing and printing)
+![alt tag](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
 
