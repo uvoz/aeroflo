@@ -9,6 +9,8 @@ After running the Auroflo for 3+ years! the original rubber sprayer tube connect
 ### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
 ### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
 
+![picture](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.jpg)
+
 
 ## Water-pipe vibration damper
 We like our system on the teras very silent. The main (pump) noise is pushed out trough the water-pipes that resonate on the stands where they lay on.
@@ -25,7 +27,7 @@ When growing large tomatoes, one would not use all holes. Here a decent lid. Ins
 ### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.stl)
 ### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.scad)
 
-![picture](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.jpg)
+
 
 
 ## Tested with Primaloy
