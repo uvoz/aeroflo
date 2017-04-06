@@ -1,35 +1,43 @@
 
 $fn=360;
+difference(){base();holes();
+}
 
 
-rotate([90,0,0]){
+
+module base(){
+
+
+
+cylinder(16,23,23, center=true);
+
+
 difference(){
-cube([40,30,50], center=true);
-translate([0,0,-10])
-cube([30,30,30], center=true);
+translate([0,-30,0])
+ cylinder(16,12,12, center=true);
 
-rotate([90,0,90])
-translate([0,25,0])
-cylinder(50,10,10,center=true);
-    
-    rotate([0,90,90])
-translate([-27,0,0])
-cylinder(50,18,18,center=true);
-    
-        rotate([0,90,90])
-translate([-20,0,0])
-cube([20,31,31],center=true);
-    
-    rotate([90,0,90])
-translate([0,-5,0])
-cylinder(50,10,10,center=true);
-    
-    cylinder(50,10,10,center=true);
-}
-}
+translate([0,-30,0])
+cylinder(50,8,8, center=true);   
+
+//rotate([0,0,36.5])
+// linear_extrude(height = 10) {
+//       text(text = str("S"),  size = 30);
+//     }
 
 
 
+ }
+} 
 
+ module holes(){
+cylinder(21,9,21, center=true);
+  cylinder(21,21,9, center=true);   
+translate([0,-0,-5])
+cube([30.2,30.2,30.2], center=true);
+ 
+//waterpipe guide 
+  rotate([90,0,90])
+translate([-49,0,0])
+cylinder(52,9,11,center=true);   
 
-
+ }
