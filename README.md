@@ -21,7 +21,7 @@ This simple object slides over the upper square pipes of your system and provide
 ### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-waterpipe-vinbration-damper.scad)
 
 
-## Lid for unused plant-holes (netcup lid)
+## Lid for unused plant-holes
 When growing large tomatoes, one would not use all holes. Here a decent lid. Insert the lid with the flat side up to avoid dirt and rainwater build-up.
 
 ### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-netcuphole-lid.stl)
