@@ -4,7 +4,7 @@ usefull printable (rubber) parts for the Aeroflo from GHE General Hydroponics Eu
 
 
 ## Main water-pipe to sprayer hoses rubber interface connector
-After running the Auroflo for 3+ years! the original rubber sprayer tube connectors became brittle this spring. This an improved, slight conic shaped version. It's snugger then the original part.
+After running the Aeroflo for 3+ years! the original rubber sprayer tube connectors became brittle this spring. This an improved, slight conic shaped version. It's snugger then the original part.
 
 ### ![3d STL](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.stl)
 ### ![open scad formula](https://github.com/uvoz/aeroflo/blob/master/aeroflo-sprayertopipe-connectorrubberII.scad)
