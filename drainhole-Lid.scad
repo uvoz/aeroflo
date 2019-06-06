@@ -24,7 +24,7 @@ module deksel()
 
 module holier()
 {
-    translate([0,0,-2])
+    translate([0,0,-4])
   cylinder(h =10, r1 = 45.5, r2 = 42.5, center = true);   
 }
 
@@ -32,11 +32,11 @@ module holier()
 
 module balls(){
 hull(){
-translate([0,46,-3.2]) sphere(r=3);
-translate([0,-46,-3.2]) sphere(r=3);
+translate([0,47.2,-3.2]) sphere(r=3);
+translate([0,-46.2,-3.2]) sphere(r=3);
 
-translate([46,0,-3.2]) sphere(r=3);
-translate([-46,0,-3.2]) sphere(r=3);
+translate([46.2,0,-3.2]) sphere(r=3);
+translate([-46.2,0,-3.2]) sphere(r=3);
 }
 
 
